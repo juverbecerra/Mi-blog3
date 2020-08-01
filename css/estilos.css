@@ -7,7 +7,8 @@ body{background-color: rgb(5, 27, 8);
 }
 #cabecera
 {
-    background:rgba(15, 230, 83, 0.776); 
+    background:rgba(47, 170, 237, 0.776); 
+    color: red;
     box-shadow: 0px 2px 0px rgb(5, 27, 8);
     padding: 0.5em;
     margin: 0;
